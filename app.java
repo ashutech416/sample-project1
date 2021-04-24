@@ -1,5 +1,4 @@
-class Ajay {
-
+class Maheshbabu {
   public static void main(String[] args) {
     
     System.out.println("Enter two numbers");
